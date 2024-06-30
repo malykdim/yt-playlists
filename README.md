@@ -11,8 +11,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ![Responsive](https://github.com/malykdim/yt-playlists/assets/38568843/fbf22cdb-9e82-4e88-a3ce-2d2473ae3d51)
 ![Signup](https://github.com/malykdim/yt-playlists/assets/38568843/2a19a673-0193-4472-9f2f-8ebf80c849ed)
-![Login](https://github.com/malykdim/yt-playlists/assets/38568843/2b325700-dc6b-445e-b930-08d1d218c773)
 ![Login](https://github.com/malykdim/yt-playlists/assets/38568843/1076524c-121d-4863-a308-8f6c652cc2b4)
+![Login filled in](https://github.com/malykdim/yt-playlists/assets/38568843/2b325700-dc6b-445e-b930-08d1d218c773)
 ![Home](https://github.com/malykdim/yt-playlists/assets/38568843/27d786dd-859f-4610-ba87-6b242b836b8b)
 ![Playlist Details](https://github.com/malykdim/yt-playlists/assets/38568843/ba263360-7c04-4a6f-b611-789373f1a774)
 ![Playlist Details / User](https://github.com/malykdim/yt-playlists/assets/38568843/95117098-fa1c-488b-b804-f1c428c2b3c1)
