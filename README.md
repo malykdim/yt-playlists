@@ -19,3 +19,5 @@ Users can see other user's playlists, but can modify only their own playlists.
 ![Add-item-form-empty](https://github.com/malykdim/yt-playlists/assets/38568843/6b9de8d6-e961-461e-b4b6-bcc32176d18c)
 ![No-ownership](https://github.com/malykdim/yt-playlists/assets/38568843/e330d899-0320-4c14-8803-2d0abfbfe462)
 
+![no-ownership](https://github.com/user-attachments/assets/7e9946b5-0220-4002-adf0-4c952c40fad2)
+
